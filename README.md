@@ -4,7 +4,7 @@
 
 🔭 I’m currently working at [Yellow Bird]((https://goyellowbird.com/))
 
-🌱 I’m currently learning **Auth0**
+🌱 I’m currently learning **Web Security**
 
 🤝 I'm looking to collaborate with senior developers; **to raise my standards on what is expected of any web application.**
 
