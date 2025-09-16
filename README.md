@@ -14,7 +14,7 @@
 
 📄 Know about my experiences in [Linkedin](https://www.linkedin.com/in/dmadridy/)<br>
 
-⚡ Fun fact **I am two-times Chess Champion ♟️ at college. I hope to win again this year haha**
+⚡ Fun fact **I am two-times Chess Champion ♟️ at college.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
