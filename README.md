@@ -4,7 +4,7 @@
 
 🔭 I’m currently working at [YellowBird]((https://goyellowbird.com/))
 
-🌱 I’m currently learning **Firebase**
+🌱 I’m currently learning **Next**
 
 🤝 I'm looking to collaborate with senior developers; **to raise my standards on what is expected of any web application.**
 
